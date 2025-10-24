@@ -1,0 +1,9 @@
+main()
+{
+	printf("hello")
+}
+
+
+
+
+	
